@@ -1,0 +1,162 @@
+14:417  4:965  Found BIOS RSDP at FCCD0
+14:417  0:000  Printing ACPI tables from RSDP FCCD0 ...
+14:417  0:000   FCCD0: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:417  0:000    (Xsdt: 7630A0A8, Rsdt: 7630A028)
+14:417  0:000    7630A0A8: 'XSDT', 'Notebook', Rev: 1, Len: 196
+14:417  0:000    7630A028: 'RSDT', 'Notebook', Rev: 1, Len: 116
+14:417  0:000    Tables in Xsdt: 20
+14:417  0:000    0. 76330E18: 'FACP', 'Notebook', Rev: 5, Len: 268
+14:417  0:000        (Dsdt: 7630A200, Facs: 770A7F80, XDsdt: 7630A200, XFacs: 0)
+14:417  0:000        7630A200: 'DSDT', 'Notebook', Rev: 2, Len: 158741
+14:420  0:003        770A7F80: 'FACS', Ver: 2, Len: 64
+14:420  0:000    1. 76330F28: 'APIC', 'Notebook', Rev: 3, Len: 132
+14:420  0:000    2. 76330FB0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+14:420  0:000    3. 76330FF8: 'FIDT', 'Notebook', Rev: 1, Len: 156
+14:420  0:000    4. 76331098: 'MCFG', 'Notebook', Rev: 1, Len: 60
+14:420  0:000    5. 763310D8: 'HPET', 'Notebook', Rev: 1, Len: 56
+14:420  0:000    6. 76331110: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+14:420  0:000    7. 76331428: 'ECDT', 'Notebook', Rev: 1, Len: 193
+14:420  0:000    8. 763314F0: 'LPIT', 'SKL', Rev: 1, Len: 148
+14:420  0:000    9. 76331588: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+14:420  0:000    10. 763317D0: 'DBGP', '', Rev: 1, Len: 52
+14:420  0:000    11. 76331808: 'DBG2', '', Rev: 0, Len: 84
+14:420  0:000    12. 76331860: 'SSDT', 'DptfTabl', Rev: 2, Len: 15726
+14:420  0:000    13. 763355D0: 'SSDT', 'SaSsdt', Rev: 2, Len: 26320
+14:420  0:000    14. 7633BCA0: 'UEFI', '', Rev: 1, Len: 66
+14:420  0:000    15. 7633BCE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+14:420  0:000    16. 7633CB60: 'BGRT', 'Notebook', Rev: 1, Len: 56
+14:420  0:000    17. 7633CB98: 'SSDT', 'SgPeg', Rev: 2, Len: 165
+14:420  0:000    18. 7633CC40: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+14:420  0:000    19. 7633CC78: 'SSDT', 'OptTabl', Rev: 1, Len: 6719
+14:420  0:000    Tables in Rsdt: 20
+14:420  0:000    0. 7630A178: 'FACP', 'Notebook', Rev: 2, Len: 132
+14:420  0:000        (Dsdt: 7630A200, Facs: 770A7F40)
+14:420  0:000        7630A200: 'DSDT', 'Notebook', Rev: 2, Len: 158741
+14:423  0:003        770A7F40: 'FACS', Ver: 0, Len: 64
+14:423  0:000    1. 76330F28: 'APIC', 'Notebook', Rev: 3, Len: 132
+14:423  0:000    2. 76330FB0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+14:423  0:000    3. 76330FF8: 'FIDT', 'Notebook', Rev: 1, Len: 156
+14:423  0:000    4. 76331098: 'MCFG', 'Notebook', Rev: 1, Len: 60
+14:423  0:000    5. 763310D8: 'HPET', 'Notebook', Rev: 1, Len: 56
+14:423  0:000    6. 76331110: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+14:423  0:000    7. 76331428: 'ECDT', 'Notebook', Rev: 1, Len: 193
+14:423  0:000    8. 763314F0: 'LPIT', 'SKL', Rev: 1, Len: 148
+14:423  0:000    9. 76331588: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+14:423  0:000    10. 763317D0: 'DBGP', '', Rev: 1, Len: 52
+14:423  0:000    11. 76331808: 'DBG2', '', Rev: 0, Len: 84
+14:423  0:000    12. 76331860: 'SSDT', 'DptfTabl', Rev: 2, Len: 15726
+14:423  0:000    13. 763355D0: 'SSDT', 'SaSsdt', Rev: 2, Len: 26320
+14:423  0:000    14. 7633BCA0: 'UEFI', '', Rev: 1, Len: 66
+14:423  0:000    15. 7633BCE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+14:423  0:000    16. 7633CB60: 'BGRT', 'Notebook', Rev: 1, Len: 56
+14:423  0:000    17. 7633CB98: 'SSDT', 'SgPeg', Rev: 2, Len: 165
+14:423  0:000    18. 7633CC40: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+14:423  0:000    19. 7633CC78: 'SSDT', 'OptTabl', Rev: 1, Len: 6719
+14:423  0:000  Found UEFI Acpi 2.0 RSDP at 7630A000
+14:423  0:000  Saving ACPI tables from RSDP 7630A000 to EFI\CLOVER\ACPI\origin ...
+14:423  0:000   7630A000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:423  0:000    (Xsdt: 7630A0A8, Rsdt: 7630A028)
+14:423  0:000    7630A0A8: 'XSDT', 'Notebook', Rev: 1, Len: 196
+14:423  0:000    7630A028: 'RSDT', 'Notebook', Rev: 1, Len: 116
+14:423  0:000    Tables in Xsdt: 20
+14:423  0:000    0. 76330E18: 'FACP', 'Notebook', Rev: 5, Len: 268
+14:423  0:000        (Dsdt: 7630A200, Facs: 770A7F80, XDsdt: 7630A200, XFacs: 0)
+14:424  0:000        7630A200: 'DSDT', 'Notebook', Rev: 2, Len: 158741
+14:427  0:003        770A7F80: 'FACS', Ver: 2, Len: 64
+14:427  0:000    1. 76330F28: 'APIC', 'Notebook', Rev: 3, Len: 132
+14:427  0:000    2. 76330FB0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+14:427  0:000    3. 76330FF8: 'FIDT', 'Notebook', Rev: 1, Len: 156
+14:427  0:000    4. 76331098: 'MCFG', 'Notebook', Rev: 1, Len: 60
+14:427  0:000    5. 763310D8: 'HPET', 'Notebook', Rev: 1, Len: 56
+14:427  0:000    6. 76331110: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+14:427  0:000    7. 76331428: 'ECDT', 'Notebook', Rev: 1, Len: 193
+14:427  0:000    8. 763314F0: 'LPIT', 'SKL', Rev: 1, Len: 148
+14:427  0:000    9. 76331588: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+14:427  0:000    10. 763317D0: 'DBGP', '', Rev: 1, Len: 52
+14:427  0:000    11. 76331808: 'DBG2', '', Rev: 0, Len: 84
+14:427  0:000    12. 76331860: 'SSDT', 'DptfTabl', Rev: 2, Len: 15726
+14:427  0:000    13. 763355D0: 'SSDT', 'SaSsdt', Rev: 2, Len: 26320
+14:427  0:000    14. 7633BCA0: 'UEFI', '', Rev: 1, Len: 66
+14:427  0:000    15. 7633BCE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+14:427  0:000    16. 7633CB60: 'BGRT', 'Notebook', Rev: 1, Len: 56
+14:427  0:000    17. 7633CB98: 'SSDT', 'SgPeg', Rev: 2, Len: 165
+14:427  0:000    18. 7633CC40: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+14:427  0:000    19. 7633CC78: 'SSDT', 'OptTabl', Rev: 1, Len: 6719
+14:427  0:000    Tables in Rsdt: 20
+14:427  0:000    0. 7630A178: 'FACP', 'Notebook', Rev: 2, Len: 132
+14:427  0:000        (Dsdt: 7630A200, Facs: 770A7F40)
+14:427  0:000        7630A200: 'DSDT', 'Notebook', Rev: 2, Len: 158741
+14:430  0:003        770A7F40: 'FACS', Ver: 0, Len: 64
+14:430  0:000    1. 76330F28: 'APIC', 'Notebook', Rev: 3, Len: 132
+14:430  0:000    2. 76330FB0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+14:430  0:000    3. 76330FF8: 'FIDT', 'Notebook', Rev: 1, Len: 156
+14:430  0:000    4. 76331098: 'MCFG', 'Notebook', Rev: 1, Len: 60
+14:430  0:000    5. 763310D8: 'HPET', 'Notebook', Rev: 1, Len: 56
+14:430  0:000    6. 76331110: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+14:430  0:000    7. 76331428: 'ECDT', 'Notebook', Rev: 1, Len: 193
+14:430  0:000    8. 763314F0: 'LPIT', 'SKL', Rev: 1, Len: 148
+14:430  0:000    9. 76331588: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+14:430  0:000    10. 763317D0: 'DBGP', '', Rev: 1, Len: 52
+14:430  0:000    11. 76331808: 'DBG2', '', Rev: 0, Len: 84
+14:430  0:000    12. 76331860: 'SSDT', 'DptfTabl', Rev: 2, Len: 15726
+14:430  0:000    13. 763355D0: 'SSDT', 'SaSsdt', Rev: 2, Len: 26320
+14:430  0:000    14. 7633BCA0: 'UEFI', '', Rev: 1, Len: 66
+14:430  0:000    15. 7633BCE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+14:430  0:000    16. 7633CB60: 'BGRT', 'Notebook', Rev: 1, Len: 56
+14:430  0:000    17. 7633CB98: 'SSDT', 'SgPeg', Rev: 2, Len: 165
+14:430  0:000    18. 7633CC40: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+14:430  0:000    19. 7633CC78: 'SSDT', 'OptTabl', Rev: 1, Len: 6719
+14:430  0:000  Found UEFI Acpi 1.0 RSDP at 7630A000
+14:430  0:000  Printing ACPI tables from RSDP 7630A000 ...
+14:430  0:000   7630A000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+14:430  0:000    (Xsdt: 7630A0A8, Rsdt: 7630A028)
+14:430  0:000    7630A0A8: 'XSDT', 'Notebook', Rev: 1, Len: 196
+14:430  0:000    7630A028: 'RSDT', 'Notebook', Rev: 1, Len: 116
+14:430  0:000    Tables in Xsdt: 20
+14:430  0:000    0. 76330E18: 'FACP', 'Notebook', Rev: 5, Len: 268
+14:430  0:000        (Dsdt: 7630A200, Facs: 770A7F80, XDsdt: 7630A200, XFacs: 0)
+14:430  0:000        7630A200: 'DSDT', 'Notebook', Rev: 2, Len: 158741
+14:434  0:003        770A7F80: 'FACS', Ver: 2, Len: 64
+14:434  0:000    1. 76330F28: 'APIC', 'Notebook', Rev: 3, Len: 132
+14:434  0:000    2. 76330FB0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+14:434  0:000    3. 76330FF8: 'FIDT', 'Notebook', Rev: 1, Len: 156
+14:434  0:000    4. 76331098: 'MCFG', 'Notebook', Rev: 1, Len: 60
+14:434  0:000    5. 763310D8: 'HPET', 'Notebook', Rev: 1, Len: 56
+14:434  0:000    6. 76331110: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+14:434  0:000    7. 76331428: 'ECDT', 'Notebook', Rev: 1, Len: 193
+14:434  0:000    8. 763314F0: 'LPIT', 'SKL', Rev: 1, Len: 148
+14:434  0:000    9. 76331588: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+14:434  0:000    10. 763317D0: 'DBGP', '', Rev: 1, Len: 52
+14:434  0:000    11. 76331808: 'DBG2', '', Rev: 0, Len: 84
+14:434  0:000    12. 76331860: 'SSDT', 'DptfTabl', Rev: 2, Len: 15726
+14:434  0:000    13. 763355D0: 'SSDT', 'SaSsdt', Rev: 2, Len: 26320
+14:434  0:000    14. 7633BCA0: 'UEFI', '', Rev: 1, Len: 66
+14:434  0:000    15. 7633BCE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+14:434  0:000    16. 7633CB60: 'BGRT', 'Notebook', Rev: 1, Len: 56
+14:434  0:000    17. 7633CB98: 'SSDT', 'SgPeg', Rev: 2, Len: 165
+14:434  0:000    18. 7633CC40: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+14:434  0:000    19. 7633CC78: 'SSDT', 'OptTabl', Rev: 1, Len: 6719
+14:434  0:000    Tables in Rsdt: 20
+14:434  0:000    0. 7630A178: 'FACP', 'Notebook', Rev: 2, Len: 132
+14:434  0:000        (Dsdt: 7630A200, Facs: 770A7F40)
+14:434  0:000        7630A200: 'DSDT', 'Notebook', Rev: 2, Len: 158741
+14:437  0:003        770A7F40: 'FACS', Ver: 0, Len: 64
+14:437  0:000    1. 76330F28: 'APIC', 'Notebook', Rev: 3, Len: 132
+14:437  0:000    2. 76330FB0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+14:437  0:000    3. 76330FF8: 'FIDT', 'Notebook', Rev: 1, Len: 156
+14:437  0:000    4. 76331098: 'MCFG', 'Notebook', Rev: 1, Len: 60
+14:437  0:000    5. 763310D8: 'HPET', 'Notebook', Rev: 1, Len: 56
+14:437  0:000    6. 76331110: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+14:437  0:000    7. 76331428: 'ECDT', 'Notebook', Rev: 1, Len: 193
+14:437  0:000    8. 763314F0: 'LPIT', 'SKL', Rev: 1, Len: 148
+14:437  0:000    9. 76331588: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+14:437  0:000    10. 763317D0: 'DBGP', '', Rev: 1, Len: 52
+14:437  0:000    11. 76331808: 'DBG2', '', Rev: 0, Len: 84
+14:437  0:000    12. 76331860: 'SSDT', 'DptfTabl', Rev: 2, Len: 15726
+14:437  0:000    13. 763355D0: 'SSDT', 'SaSsdt', Rev: 2, Len: 26320
+14:437  0:000    14. 7633BCA0: 'UEFI', '', Rev: 1, Len: 66
+14:437  0:000    15. 7633BCE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3699
+14:437  0:000    16. 7633CB60: 'BGRT', 'Notebook', Rev: 1, Len: 56
+14:437  0:000    17. 7633CB98: 'SSDT', 'SgPeg', Rev: 2, Len: 165
+14:437  0:000    18. 7633CC40: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+14:437  0:000    19. 7633CC78: 'SSDT', 'OptTabl', Rev: 1, Len: 6719
